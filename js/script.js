@@ -62,3 +62,5 @@ function handleClick(evt) {
 }
 
 // a.classList.remove(active)
+
+//thiss is a test to make sure i didnt mess up my entire homework folder
